@@ -14,3 +14,4 @@ Replace the CN in line 3 with the CN name of the server. The newest issued certi
 # Related Links
 * https://helpcenter.veeam.com/docs/backup/powershell/add-vbrcloudgatewaycertificate.html?ver=110
 * https://learn.microsoft.com/en-us/powershell/module/pki/import-pfxcertificate?view=windowsserver2022-ps
+* https://certifytheweb.com/
