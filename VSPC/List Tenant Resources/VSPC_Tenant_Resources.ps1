@@ -78,7 +78,7 @@ do {
 
 
 Write-Host Getting resource usage information...
-#get backup information and save to array
+#get backup/replication information and save to array
 $Resources = @()
 $ResourceInfo = ""
 $count = 1
@@ -87,98 +87,76 @@ foreach($company in $companies) {
     Write-host $string
     $siteURL = $baseURL + 'organizations/companies/' + $company.instanceUid + '/sites'
     $sites = (Invoke-RestMethod -Uri $siteURL -Method GET -Headers $headers).data
-    #$sites
-    
+        
     foreach($site in $sites) {
         foreach($tenant in $tenants) {
             if($tenant.instanceUid -eq $site.cloudTenantUid) {
-                #get used space
+                #get replication resource usage
+                $RepUsageURL = $baseURL + 'organizations/companies/' + $company.instanceUid + '/sites/' + $site.siteUid + '/replicationResources/usage'
+                $RepUsage = (Invoke-RestMethod -Uri $RepUsageURL -Method GET -Headers $headers).data
+                $repEnabled = 'N'
+                
+                if($null -eq $RepUsage.vCPUsConsumed) {
+                    $vCPUsConsumed = 0
+                }
+                else {
+                    $vCPUsConsumed = $RepUsage.vCPUsConsumed
+                }
+                
+                if($RepUsage.Count -gt 0) {
+                    $repEnabled = 'Y'
+                }
+                
+                #get used backup space
                 $usageURL = $baseURL + 'organizations/companies/' + $company.instanceUid + '/sites/' + $site.siteUid + '/backupResources/usage'
                 $usage = (Invoke-RestMethod -Uri $usageURL -Method GET -Headers $headers).data
+                $buEnabled = 'N'
 
                 if($usage.Count -gt 0) {
+                    $buEnabled = 'Y'
                     try {
                         #get parent repository id
                         $resourceURL = $baseURL + 'organizations/companies/' + $company.instanceUid + '/sites/' + $site.siteUid + '/backupResources/' + $usage.backupResourceUid
                         $resource = (Invoke-RestMethod -Uri $resourceURL -Method GET -Headers $headers).data
-
-                        foreach($CChost in $CChosts) {
-                            if($tenant.backupServerUid -eq $CChost.siteUid) {
-                                #get parent repository information
-                                $repoURL = $baseURL + 'infrastructure/backupServers/' + $resource.siteUid + '/repositories/' + $resource.repositoryUid
-                                $repo = (Invoke-RestMethod -Uri $repoURL -Method GET -Headers $headers).data
-
-                                #get extent information if SOBR
-                                $sobrURL = $baseURL + 'infrastructure/backupServers/' + $resource.siteUid + '/repositories?filter=[{"property":"parentRepositoryUid","operation":"equals","collation":"ignorecase","value":"' +
-                                    $repo.instanceUid + '"}]'
-                                $sobr = (Invoke-RestMethod -Uri $sobrURL -Method GET -Headers $headers).data
-                                if($sobr.Count -gt 0) {
-                                    #add SOBR to spreadsheet, listing each extent
-                                    $ResourceInfo = [PSCustomObject]@{
-                                        'Company' = $tenant.description
-                                        'Tenant' = $tenant.Name
-                                        'VBR Host' = $CChost.siteName
-                                        'Repository' = $extent.name
-                                        'Type' = 'Scale-Out'
-                                        'Repository Host' = $extent.hostName
-                                        'Backup Storage Used (TB)' = $usage.usedStorageQuota / 1024 / 1024 / 1024 / 1024
-                                    }
-                                    foreach($extent in $sobr) {
-                                        if($extent.type -eq "Windows") {
-                                            $ResourceInfo = [PSCustomObject]@{
-                                                'Company' = $tenant.description
-                                                'Tenant' = $tenant.Name
-                                                'VBR Host' = $CChost.siteName
-                                                'Repository' = $extent.name
-                                                'Type' = 'Windows Extent'
-                                                'Repository Host' = $extent.hostName
-                                                'Backup Storage Used (TB)' = 'Unknown'
-                                            }
-                                        }
-                                        else {
-                                            $ResourceInfo = [PSCustomObject]@{
-                                                'Company' = $tenant.description
-                                                'Tenant' = $tenant.Name
-                                                'VBR Host' = $CChost.siteName
-                                                'Repository' = $extent.name
-                                                'Type' = 'Non-Windows Extent'
-                                                'Repository Host' = ''
-                                                'Backup Storage Used (TB)' = 'Unknown'
-                                            }
-                                        }
-                                        $Resources += $ResourceInfo
-                                    }
-                                }
-                                else {
-                                    $ResourceInfo = [PSCustomObject]@{
-                                        'Company' = $tenant.description
-                                        'Tenant' = $tenant.Name
-                                        'VBR Host' = $CChost.siteName
-                                        'Repository' = $repo.name
-                                        'Type' = 'Standalone'
-                                        'Repository Host' = $repo.hostName
-                                        'Backup Storage Used (TB)' = $usage.usedStorageQuota / 1024 / 1024 / 1024 / 1024
-                                    }
-                                    $Resources += $ResourceInfo
-                                }
-                                break
-                            }
-                        }
+                        
+                        #get parent repository information
+                        $repoURL = $baseURL + 'infrastructure/backupServers/' + $resource.siteUid + '/repositories/' + $resource.repositoryUid
+                        $repo = (Invoke-RestMethod -Uri $repoURL -Method GET -Headers $headers).data
                     }
                     catch {}
+                }
+                foreach($CChost in $CChosts) {
+                    if($tenant.backupServerUid -eq $CChost.siteUid) {
+                        $ResourceInfo = [PSCustomObject]@{
+                            'Company' = $tenant.description
+                            'Tenant' = $tenant.Name
+                            'VBR Host' = $CChost.siteName
+                            'Backup Enabled' = $buEnabled
+                            'Replication Enabled' = $repEnabled
+                            'Repository' = $repo.name
+                            'Type' = $repo.type
+                            'Repository Host' = $repo.hostName
+                            'Backup Storage Used (TB)' = $usage.usedStorageQuota / 1024 / 1024 / 1024 / 1024
+                            'Replic Storage Used (GB)' = $RepUsage.storageUsage / 1024 /1024 /1024
+                            'Replic Memory Used (GB)' = $RepUsage.memoryUsage / 1024 / 1024 / 1024
+                            'Replic vCPUs' = $vCPUsConsumed
+                        }
+                        $Resources += $ResourceInfo
+                        break
+                    }
                 }
                 $lastTenant = $tenant
                 break
             }
         }
-        $tenants.Remove($tenant)
+        $tenants.Remove($lastTenant)
     }
     $count++
 }
 
 Write-Host Saving data to CSV...
 #export usage information to CSV and save to downloads folder
-$FilePath = $env:USERPROFILE + "\Downloads\TenantLocations.csv"
+$FilePath = $env:USERPROFILE + "\Downloads\TenantResources.csv"
 $Resources | Export-CSV -Path $FilePath -NoTypeInformation
 
 #tell user file location and exit when any key is pressed
