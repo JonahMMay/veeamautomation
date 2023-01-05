@@ -1,0 +1,33 @@
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net7.0\appsettings.json
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net7.0\API Wrapper.exe
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net7.0\API Wrapper.deps.json
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net7.0\API Wrapper.runtimeconfig.json
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net7.0\API Wrapper.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net7.0\API Wrapper.pdb
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\API Wrapper.csproj.AssemblyReference.cache
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\API Wrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\API Wrapper.AssemblyInfoInputs.cache
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\API Wrapper.AssemblyInfo.cs
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\API Wrapper.csproj.CoreCompileInputs.cache
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\API Wrapper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\API Wrapper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\staticwebassets\msbuild.API Wrapper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\staticwebassets\msbuild.build.API Wrapper.props
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API Wrapper.props
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API Wrapper.props
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\scopedcss\bundle\API Wrapper.styles.css
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\API Wrapper.csproj.CopyComplete
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\API Wrapper.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\refint\API Wrapper.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\API Wrapper.pdb
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\API Wrapper.genruntimeconfig.cache
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net7.0\ref\API Wrapper.dll

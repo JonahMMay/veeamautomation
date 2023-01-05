@@ -1,0 +1,221 @@
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\appsettings.json
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\Microsoft.CSharp.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\Microsoft.VisualBasic.Core.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\Microsoft.VisualBasic.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\Microsoft.Win32.Primitives.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\Microsoft.Win32.Registry.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.AppContext.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Buffers.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Collections.Concurrent.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Collections.Immutable.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Collections.NonGeneric.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Collections.Specialized.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Collections.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.ComponentModel.Annotations.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.ComponentModel.DataAnnotations.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.ComponentModel.EventBasedAsync.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.ComponentModel.Primitives.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.ComponentModel.TypeConverter.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.ComponentModel.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Configuration.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Console.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Core.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Data.Common.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Data.DataSetExtensions.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Data.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Diagnostics.Contracts.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Diagnostics.Debug.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Diagnostics.Process.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Diagnostics.StackTrace.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Diagnostics.Tools.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Diagnostics.TraceSource.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Diagnostics.Tracing.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Drawing.Primitives.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Drawing.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Dynamic.Runtime.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Formats.Asn1.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Formats.Tar.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Globalization.Calendars.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Globalization.Extensions.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Globalization.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.IO.Compression.Brotli.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.IO.Compression.FileSystem.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.IO.Compression.ZipFile.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.IO.Compression.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.IO.FileSystem.AccessControl.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.IO.FileSystem.Primitives.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.IO.FileSystem.Watcher.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.IO.FileSystem.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.IO.IsolatedStorage.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.IO.MemoryMappedFiles.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.IO.Pipes.AccessControl.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.IO.Pipes.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.IO.UnmanagedMemoryStream.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.IO.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Linq.Expressions.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Linq.Parallel.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Linq.Queryable.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Linq.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Memory.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.Http.Json.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.Http.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.HttpListener.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.Mail.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.NameResolution.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.NetworkInformation.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.Ping.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.Primitives.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.Quic.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.Requests.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.Security.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.ServicePoint.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.Sockets.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.WebClient.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.WebHeaderCollection.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.WebProxy.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.WebSockets.Client.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.WebSockets.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Net.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Numerics.Vectors.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Numerics.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.ObjectModel.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Reflection.DispatchProxy.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Reflection.Emit.ILGeneration.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Reflection.Emit.Lightweight.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Reflection.Emit.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Reflection.Extensions.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Reflection.Metadata.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Reflection.Primitives.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Reflection.TypeExtensions.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Reflection.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Resources.Reader.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Resources.ResourceManager.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Resources.Writer.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Runtime.Extensions.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Runtime.Handles.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Runtime.InteropServices.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Runtime.Intrinsics.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Runtime.Loader.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Runtime.Numerics.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Runtime.Serialization.Formatters.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Runtime.Serialization.Json.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Runtime.Serialization.Primitives.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Runtime.Serialization.Xml.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Runtime.Serialization.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Runtime.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Security.AccessControl.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Security.Claims.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Security.Cryptography.Algorithms.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Security.Cryptography.Cng.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Security.Cryptography.Csp.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Security.Cryptography.Encoding.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Security.Cryptography.OpenSsl.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Security.Cryptography.Primitives.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Security.Cryptography.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Security.Principal.Windows.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Security.Principal.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Security.SecureString.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Security.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.ServiceModel.Web.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.ServiceProcess.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Text.Encoding.CodePages.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Text.Encoding.Extensions.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Text.Encoding.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Text.Encodings.Web.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Text.Json.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Text.RegularExpressions.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Threading.Channels.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Threading.Overlapped.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Threading.Tasks.Dataflow.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Threading.Tasks.Extensions.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Threading.Tasks.Parallel.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Threading.Tasks.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Threading.Thread.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Threading.ThreadPool.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Threading.Timer.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Threading.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Transactions.Local.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Transactions.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.ValueTuple.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Web.HttpUtility.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Web.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Windows.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Xml.Linq.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Xml.ReaderWriter.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Xml.Serialization.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Xml.XDocument.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Xml.XPath.XDocument.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Xml.XPath.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Xml.XmlDocument.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Xml.XmlSerializer.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.Xml.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\System.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\WindowsBase.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\mscorlib.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\ref\netstandard.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\unix\lib\net7.0\Modules\Microsoft.PowerShell.Host\Microsoft.PowerShell.Host.psd1
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\unix\lib\net7.0\Modules\Microsoft.PowerShell.Management\Microsoft.PowerShell.Management.psd1
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\unix\lib\net7.0\Modules\Microsoft.PowerShell.Security\Microsoft.PowerShell.Security.psd1
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\unix\lib\net7.0\Modules\Microsoft.PowerShell.Utility\Microsoft.PowerShell.Utility.psd1
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\win\lib\net7.0\Modules\CimCmdlets\CimCmdlets.psd1
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\win\lib\net7.0\Modules\Microsoft.PowerShell.Diagnostics\Diagnostics.format.ps1xml
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\win\lib\net7.0\Modules\Microsoft.PowerShell.Diagnostics\Event.format.ps1xml
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\win\lib\net7.0\Modules\Microsoft.PowerShell.Diagnostics\GetEvent.types.ps1xml
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\win\lib\net7.0\Modules\Microsoft.PowerShell.Diagnostics\Microsoft.PowerShell.Diagnostics.psd1
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\win\lib\net7.0\Modules\Microsoft.PowerShell.Host\Microsoft.PowerShell.Host.psd1
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\win\lib\net7.0\Modules\Microsoft.PowerShell.Management\Microsoft.PowerShell.Management.psd1
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\win\lib\net7.0\Modules\Microsoft.PowerShell.Security\Microsoft.PowerShell.Security.psd1
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\win\lib\net7.0\Modules\Microsoft.PowerShell.Security\Security.types.ps1xml
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\win\lib\net7.0\Modules\Microsoft.PowerShell.Utility\Microsoft.PowerShell.Utility.psd1
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\win\lib\net7.0\Modules\Microsoft.WSMan.Management\Microsoft.WSMan.Management.psd1
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\win\lib\net7.0\Modules\Microsoft.WSMan.Management\WSMan.format.ps1xml
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\win\lib\net7.0\Modules\PSDiagnostics\PSDiagnostics.psd1
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\win\lib\net7.0\Modules\PSDiagnostics\PSDiagnostics.psm1
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\API Wrapper.exe
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\API Wrapper.deps.json
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\API Wrapper.runtimeconfig.json
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\API Wrapper.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\API Wrapper.pdb
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\API Wrapper.csproj.AssemblyReference.cache
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\API Wrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\API Wrapper.AssemblyInfoInputs.cache
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\API Wrapper.AssemblyInfo.cs
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\API Wrapper.csproj.CoreCompileInputs.cache
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\API Wrapper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\API Wrapper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\staticwebassets\msbuild.API Wrapper.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\staticwebassets\msbuild.build.API Wrapper.props
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API Wrapper.props
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API Wrapper.props
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\scopedcss\bundle\API Wrapper.styles.css
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\API Wrapper.csproj.CopyComplete
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\API Wrapper.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\refint\API Wrapper.dll
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\API Wrapper.pdb
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\API Wrapper.genruntimeconfig.cache
+C:\Users\jonah\OneDrive\Documents\Different Dev\veeamautomation\veeamautomation\API Wrapper\obj\Debug\net6.0\ref\API Wrapper.dll
