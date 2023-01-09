@@ -186,5 +186,5 @@ Here are other locations which provide basic Veeam scripts or API libraries:
 [Powershell-url]: https://learn.microsoft.com/en-us/powershell/
 [.NET]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 [.NET-url]: https://dotnet.microsoft.com/en-us/learn
-[C#]: https://img.shields.io/badge/-C%23-239120?logo=c-sharp
+[C#]: https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 [C#-url]: https://learn.microsoft.com/en-us/dotnet/csharp/
