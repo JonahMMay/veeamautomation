@@ -78,6 +78,7 @@ As I've worked with Veeam, I have created scripts to make Veeam and VMware tasks
 The following major frameworks/libraries/languages have been used for these scripts:
 
 * [![PowerShell][Powershell]][Powershell-url]
+* [![.NET][.NET]][.NET-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,3 +183,5 @@ Here are other locations which provide basic Veeam scripts or API libraries:
 [JQuery-url]: https://jquery.com 
 [Powershell]: https://img.shields.io/badge/PowerShell-0769AD?style=for-the-badge&logo=powershell&logoColor=white
 [Powershell-url]: https://learn.microsoft.com/en-us/powershell/
+[.NET]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+[.NET-url]: https://dotnet.microsoft.com/en-us/learn
